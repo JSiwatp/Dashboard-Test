@@ -13,3 +13,5 @@ How to Login
 
 username: admin
 password: 123
+
+#The mock user data and credentials are contained in the data.ts file.
