@@ -8,3 +8,8 @@ Installation
 3. Navigate to the project directory: cd Dashboard-Test
 4. Install dependencies: npm install
 5. Running the Project: npm start
+
+How to Login
+
+username: admin
+password: 123
